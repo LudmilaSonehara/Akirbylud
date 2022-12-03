@@ -19,10 +19,10 @@ const respostas = [
   "Perspectiva boa.",
   "As perspectivas não são tão boas.",
   "Sim, Deus abençoe!",
-  "Concentre-se e pergunte novamente.",
+  "Talvez...",
   "Sinais apontam que sim.",
   "Vai com calma, pode dar merda.",
-  "Eita, cuidado com o que você pergunta!",
+  "Não, jamais.",
 ]
 
 // clicar em fazer pergunta
